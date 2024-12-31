@@ -56,8 +56,8 @@ La aplicación está desarrollada con tecnologías modernas y sigue principios d
 ---
 ### 📥 Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/MarValverdeB/literalura
+cd literalura
 ```
 
 ### 📂 Estructura del proyecto
